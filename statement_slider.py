@@ -1,10 +1,9 @@
+"""ローカル変数の宣言を可能な限り後ろにずらすスクリプト."""
+
 import argparse
 import ast
-import astor
 from collections import defaultdict
 
-from collections import defaultdict
-import ast
 import astor
 
 
